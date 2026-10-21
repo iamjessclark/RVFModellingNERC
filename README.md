@@ -18,7 +18,7 @@ The GPS points and covariates have been processed to de-identify the site locati
 
 A ward-level, deterministic model of Rift Valley fever virus transmission between
 cattle and two mosquito genera (*Aedes* and *Culex*) across 66 wards in Hai, Moshi
-and Babati districts, northern Tanzania.
+and Babati districts, northern Tanzania. Model code written by Tijani Sulaimon. 
 
 ### Model structure
 
